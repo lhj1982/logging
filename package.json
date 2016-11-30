@@ -1,0 +1,22 @@
+{
+  "name": "logging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhj1982/logging.git"
+  },
+  "author": "Huajun Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lhj1982/logging/issues"
+  },
+  "homepage": "https://github.com/lhj1982/logging#readme",
+  "dependencies": {
+    "async": "^2.1.4"
+  }
+}
